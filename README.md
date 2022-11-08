@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HK2226&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HK2226&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HK2226&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hk2226&bg_color=0d0c0d&color=4c9e91&line=84f1ad&point=1cf22b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
